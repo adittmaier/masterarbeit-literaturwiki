@@ -1,0 +1,361 @@
+[
+  {
+    "title": "A Design Science Research Methodology for Information Systems Research",
+    "short": "Peffers et al. · DSRM",
+    "authors": [
+      "Ken Peffers",
+      "Tuure Tuunanen",
+      "Marcus A. Rothenberger",
+      "Samir Chatterjee"
+    ],
+    "year": "2007/2008",
+    "type": "Methodenbeitrag",
+    "venue": "Journal of Management Information Systems, 24(3), 45–77, Winter 2007–08",
+    "identifier": "https://doi.org/10.2753/MIS0742-1222240302",
+    "note": "Die vorliegende Ausgabe nennt Winter 2007–08 und Copyright 2008. Die Jahresangabe wird deshalb ausdrücklich als 2007/2008 geführt.",
+    "scope": "Inhaltliche Volltextauswertung der vorhandenen Extraktion; zentrale DSRM-Passagen zusätzlich am PDF geprüft.",
+    "themes": [
+      "design-science"
+    ],
+    "description": "Die sechs Aktivitäten der DSRM, ihre nichtlineare Anwendung und die Unterscheidung von Demonstration und Evaluation.",
+    "key": "peffers",
+    "source_id": "lit-9495229cb8702f86",
+    "extraction_sha256": "68fdd8544bf4a7f14b0f2b713d2ebc82494d28a5e57a0d6de89d3bbeefc5cf72"
+  },
+  {
+    "title": "Design Science in Information Systems Research",
+    "short": "Hevner et al. · DSR-Grundlagen",
+    "authors": [
+      "Alan R. Hevner",
+      "Salvatore T. March",
+      "Jinsoo Park",
+      "Sudha Ram"
+    ],
+    "year": "2004",
+    "type": "Konzeptioneller Grundlagenbeitrag",
+    "venue": "MIS Quarterly, 28(1), 75–105",
+    "identifier": "",
+    "note": "Vollständiger Titel und die in der Extraktion fehlende Mitautorin Sudha Ram wurden anhand der Titelseite ergänzt.",
+    "scope": "Vorhandene inhaltliche Volltextauswertung; bibliografische Angaben am Original geprüft.",
+    "themes": [
+      "design-science"
+    ],
+    "description": "Sieben Leitlinien verbinden ein relevantes Problem, ein gestaltetes Artefakt und eine nachvollziehbare Evaluation.",
+    "key": "hevner",
+    "source_id": "lit-c9355d36665529db",
+    "extraction_sha256": "4816f4f2117efc61a34725d3a28c59549f12cbb04b298a7a3b27d1b47df5b073"
+  },
+  {
+    "title": "Design Science Research. Cases",
+    "short": "vom Brocke et al. · DSR-Fallstudienband",
+    "authors": [
+      "Jan vom Brocke",
+      "Alan Hevner",
+      "Alexander Maedche"
+    ],
+    "year": "2020",
+    "type": "Herausgeberband · Einleitung ausgewertet",
+    "venue": "Progress in IS, Springer; Schwerpunkt: Introduction to Design Science Research",
+    "identifier": "https://doi.org/10.1007/978-3-030-46781-4",
+    "note": "Die genannten Personen sind Herausgeber des Bandes und Autoren der hier behandelten Einführung. Der Einleitungstitel ersetzt keine Analyse sämtlicher Buchkapitel.",
+    "scope": "20 ausgewählte PDF-Seiten eines 331-seitigen Bandes. Zusammenfassung der Einführung, keine Gesamtauswertung der Fallstudien.",
+    "themes": [
+      "design-science"
+    ],
+    "description": "Wie aus einem funktionierenden Artefakt übertragbares Gestaltungswissen zu Problem, Lösung und Evaluation entsteht.",
+    "key": "brocke",
+    "source_id": "lit-83181f5039ef8288",
+    "extraction_sha256": "4530744e9fca757d4d20ba3d363f9f981b1d1df0a2aec87ee7e2edad20296d96"
+  },
+  {
+    "title": "Design science research and the co-creation of project management knowledge",
+    "short": "Gregor & Zwikael · DSR im Projektmanagement",
+    "authors": [
+      "Shirley Gregor",
+      "Ofer Zwikael"
+    ],
+    "year": "2024",
+    "type": "Method Note",
+    "venue": "International Journal of Project Management, 42, 102584",
+    "identifier": "https://doi.org/10.1016/j.ijproman.2024.102584",
+    "note": "Der zuvor als Dateiname erfasste Titel wurde aus der Titelseite übernommen.",
+    "scope": "Vorhandene inhaltliche Volltextauswertung des fünfseitigen Methodenbeitrags.",
+    "themes": [
+      "design-science"
+    ],
+    "description": "Ein methodisches Plädoyer für praxisrelevantes und zugleich wissenschaftlich begründetes Gestaltungswissen.",
+    "key": "gregor",
+    "source_id": "lit-15eb91316d8cd51a",
+    "extraction_sha256": "5ecde5a3bfd7c10871cf7f7c8c50182b00cf520080171fd180c620d5f75a5d13"
+  },
+  {
+    "title": "Artificial intelligence in project management: systematic literature review",
+    "short": "Bento et al. · KI im Projektmanagement",
+    "authors": [
+      "Sofia Bento",
+      "Leandro Pereira",
+      "Rui Gonçalves",
+      "Álvaro Dias",
+      "Renato Lopes da Costa"
+    ],
+    "year": "2022",
+    "type": "Systematischer Literaturreview",
+    "venue": "International Journal of Technology Intelligence and Planning, 13(2)",
+    "identifier": "",
+    "note": "Kein DOI aus den geprüften bibliografischen Angaben übernommen.",
+    "scope": "Vorhandene inhaltliche Volltextauswertung. Die Literatursuche des Beitrags stammt aus Mai 2021.",
+    "themes": [
+      "ki-projektmanagement"
+    ],
+    "description": "Ein Überblick über KI-Anwendungsfelder mit Schwerpunkt auf der Literatur vor dem heutigen LLM-Einsatz.",
+    "key": "slr",
+    "source_id": "lit-7589d24cc3f3623c",
+    "extraction_sha256": "4ab3c5365b8122a1e2e028e0d092536f9f4c897290b16da2cc0e874bdc3ef62b"
+  },
+  {
+    "title": "How artificial intelligence will transform project management in the age of digitization: a systematic literature review",
+    "short": "Nenni et al. · KI und Projektrisiken",
+    "authors": [
+      "Maria Elena Nenni",
+      "Fabio De Felice",
+      "Cristina De Luca",
+      "Antonio Forcina"
+    ],
+    "year": "2024/2025",
+    "type": "Systematischer Literaturreview",
+    "venue": "Management Review Quarterly, 75, 1669–1716; online 2024, Band 2025",
+    "identifier": "https://doi.org/10.1007/s11301-024-00418-z",
+    "note": "Die Titelseite nennt die Onlineveröffentlichung vom 9. April 2024 und die Zeitschriftenausgabe 2025.",
+    "scope": "Vorhandene inhaltliche Volltextauswertung; der tatsächliche Fokus liegt auf Projektrisikomanagement.",
+    "themes": [
+      "ki-projektmanagement"
+    ],
+    "description": "Welche KI-Verfahren welchen Risikoprozess unterstützen und weshalb es keine allgemeingültige Werkzeugwahl gibt.",
+    "key": "nenni",
+    "source_id": "lit-fde558b3a77ed1ee",
+    "extraction_sha256": "81e59450888d46b6e850db705c61a9a0758f6170584bc532591eeb6668301e70"
+  },
+  {
+    "title": "The Application of Large Language Models and Virtual Assistants in Project Management Research: A Review",
+    "short": "Gil Ruiz et al. · LLM-Assistenten",
+    "authors": [
+      "Jesus Gil Ruiz",
+      "Javier Zayas Gallardo",
+      "Hernán Díaz Rodríguez"
+    ],
+    "year": "2026",
+    "type": "Literaturreview",
+    "venue": "International Journal of Interactive Multimedia and Artificial Intelligence, 9(6), 105–115",
+    "identifier": "https://doi.org/10.9781/ijimai.2026.2230",
+    "note": "Vollständige Autorennamen anhand der Titelseite ergänzt.",
+    "scope": "Vorhandene inhaltliche Volltextauswertung; auch angrenzende betriebliche Einsatzfelder werden im Review behandelt.",
+    "themes": [
+      "ki-projektmanagement",
+      "multi-agenten"
+    ],
+    "description": "Sprachmodelle als Schnittstelle zu Projektwissen und Entscheidungsunterstützung: Einsatzmöglichkeiten und Vertrauensgrenzen.",
+    "key": "gil",
+    "source_id": "lit-487955e6dadc5981",
+    "extraction_sha256": "73b42cdef146293a61b8f166b04b745edbb0163d27280c9edf15f2717cd091ce"
+  },
+  {
+    "title": "Artificial Intelligence in Project Management Offices: Enhancing Efficiency and Decision-Making",
+    "short": "Teixeira · KI im PMO",
+    "authors": [
+      "Ludgero Mateus de Francisco Teixeira"
+    ],
+    "year": "2025",
+    "type": "Masterarbeit · Leitlinienentwicklung",
+    "venue": "NOVA Information Management School, Universidade Nova de Lisboa, Juli 2025",
+    "identifier": "",
+    "note": "Jahr und Untertitel wurden aus PDF-Seite 3 ergänzt. Das RetailX-Beispiel wird in der Arbeit ausdrücklich als fiktiv bezeichnet.",
+    "scope": "20 ausgewählte PDF-Seiten eines 75-seitigen Dokuments; Fiktionalität des Anwendungsfalls und Expertenbewertung zusätzlich im Original geprüft.",
+    "themes": [
+      "ki-projektmanagement",
+      "design-science"
+    ],
+    "description": "Ein vierstufiger Weg zur KI-Einführung im PMO, illustriert an einem fiktiven Fall und beurteilt durch drei Experten.",
+    "key": "pmo",
+    "source_id": "lit-026c76d4e3ad972d",
+    "extraction_sha256": "74821a5e572de4b9543df1a5207000644510ad098cfb274abd265deaede905ac"
+  },
+  {
+    "title": "Project management: openings for disruption from AI and advanced analytics",
+    "short": "Niederman · Wandel des Projektmanagements",
+    "authors": [
+      "Fred Niederman"
+    ],
+    "year": "2021",
+    "type": "Konzeptioneller Essay",
+    "venue": "Information Technology & People, 34(6), 1570–1599",
+    "identifier": "https://doi.org/10.1108/ITP-09-2020-0639",
+    "note": "Die Download-Kopfzeile der Extraktion wurde durch den tatsächlichen Titel ersetzt.",
+    "scope": "Vorhandene Volltextverarbeitung, deren ausgewählte Aussagen nicht jede Passage des Essays gleichmäßig abdecken.",
+    "themes": [
+      "ki-projektmanagement"
+    ],
+    "description": "Warum KI vor allem über vorhandene Arbeitsabläufe, Datenbestände und Projektsoftware wirksam werden könnte.",
+    "key": "niederman",
+    "source_id": "lit-617fe14feb877421",
+    "extraction_sha256": "a719661b913d6b5c407dfa588cd9c29705a43f4fc25342b1b06eaa0fe5a8dda8"
+  },
+  {
+    "title": "A Text-Based Project Risk Classification System Using Multi-Model AI: Comparing SVM, Logistic Regression, Random Forests, Naive Bayes, and XGBoost",
+    "short": "Ferhati et al. · Textbasierte Risikoklassifikation",
+    "authors": [
+      "Koudoua Ferhati",
+      "Adriana Burlea-Schiopoiu",
+      "Andrei-Gabriel Nascu"
+    ],
+    "year": "2025",
+    "type": "Technische Modellvergleichsstudie",
+    "venue": "Systems, 13, 1078",
+    "identifier": "https://doi.org/10.3390/systems13121078",
+    "note": "Multi-Model bezeichnet hier mehrere Klassifikationsmodelle und ist nicht mit einem LLM-Multi-Agenten-System gleichzusetzen.",
+    "scope": "Vorhandene inhaltliche Volltextauswertung; Datensatzbeschreibung zusätzlich im Original geprüft.",
+    "themes": [
+      "ki-projektmanagement",
+      "multi-agenten"
+    ],
+    "description": "Getrennte Vorhersagen von Risikokategorie, Auslöser und Auswirkung zeigen den Nutzen und die Grenzen textbasierter Modelle.",
+    "key": "ferhati",
+    "source_id": "lit-86ee23363621c9d9",
+    "extraction_sha256": "f55c39f217e068d9078110e08cd1e04c93beab7eed0ed3af3aa6e4f5e6cf2ae3"
+  },
+  {
+    "title": "A project knowledge management framework grounded in design science research",
+    "short": "Narazaki et al. · Projektwissen",
+    "authors": [
+      "Rosana Sue Narazaki",
+      "Marcirio Silveira Chaves",
+      "Cristiane Drebes Pedron"
+    ],
+    "year": "2020",
+    "type": "DSR mit qualitativer Feldstudie",
+    "venue": "Knowledge and Process Management, 27, 197–210",
+    "identifier": "https://doi.org/10.1002/kpm.1627",
+    "note": "Der tatsächliche Titel wurde anhand des Originals ergänzt. Untersucht wird Wissensmanagement mit sozialen und organisatorischen Werkzeugen, kein LLM-System.",
+    "scope": "Vorhandene inhaltliche Volltextauswertung; Befunde beziehen sich auf einen konkreten Einsatzkontext.",
+    "themes": [
+      "ki-projektmanagement",
+      "design-science"
+    ],
+    "description": "Projektgedächtnis entsteht durch abgestimmte Werkzeuge, Prozesse und Menschen über den gesamten Projektverlauf.",
+    "key": "narazaki",
+    "source_id": "lit-a4b5cf6c256721e2",
+    "extraction_sha256": "b03b9967fda8753b3c93dac2a482b91c11252e9f790f1816211b04057a1b21b3"
+  },
+  {
+    "title": "Designing AI Assistants for Novices: Bridging Knowledge Gaps in Onboarding",
+    "short": "Holstein et al. · Wissensassistenz",
+    "authors": [
+      "Joshua Holstein",
+      "Patrick Müller",
+      "Michael Vössing",
+      "Hansjörg Fromm"
+    ],
+    "year": "2025",
+    "type": "DSR mit technischer und qualitativer Evaluation",
+    "venue": "Proceedings of the 58th Hawaii International Conference on System Sciences",
+    "identifier": "https://hdl.handle.net/10125/109300",
+    "note": "Der Handle ist eine dauerhafte Dokumentadresse, kein DOI. Umlaute in den Autorennamen wurden berichtigt.",
+    "scope": "Vorhandene inhaltliche Volltextauswertung; Evaluationsaufbau und Ergebnistabelle zusätzlich am PDF geprüft.",
+    "themes": [
+      "ki-projektmanagement",
+      "design-science"
+    ],
+    "description": "Metadatenfilter, angepasste Erklärungstiefe und Anschlussfragen unterstützen den Zugang zu komplexer Dokumentation.",
+    "key": "holstein",
+    "source_id": "lit-bcbe852f0e190d3d",
+    "extraction_sha256": "a1f584cde36c92990ae97a26a5b10a31c92a0a77e70395d30e6b28b54c468729"
+  },
+  {
+    "title": "Cognitive Agents Powered by Large Language Models for Agile Software Project Management",
+    "short": "Cinkusz et al. · CogniSim",
+    "authors": [
+      "Konrad Cinkusz",
+      "Jarosław A. Chudziak",
+      "Ewa Niewiadomska-Szynkiewicz"
+    ],
+    "year": "2025",
+    "type": "Systementwurf und Simulationsstudie",
+    "venue": "Electronics, 14, 87; online 28. Dezember 2024",
+    "identifier": "https://doi.org/10.3390/electronics14010087",
+    "note": "Die Zeitschriftenzuordnung lautet 2025; die Onlineveröffentlichung erfolgte bereits im Dezember 2024.",
+    "scope": "Vorhandene inhaltliche Volltextauswertung; Ergebnisse stammen aus kontrollierten Simulationen.",
+    "themes": [
+      "multi-agenten",
+      "ki-projektmanagement"
+    ],
+    "description": "Spezialisierte LLM-Agenten übernehmen Rollen in simulierten agilen Abläufen; die Feldtauglichkeit bleibt gesondert zu prüfen.",
+    "key": "cinkusz",
+    "source_id": "lit-ec51c514623f7967",
+    "extraction_sha256": "f74530197c20f10e5451e069a9c03431bd7a8b99b090604a01026f6951e4954f"
+  },
+  {
+    "title": "Toward Agentic Software Project Management: A Vision and Roadmap",
+    "short": "Assalaarachchi et al. · Agentic PM",
+    "authors": [
+      "Lakshana Iruni Assalaarachchi",
+      "Zainab Masood",
+      "Rashina Hoda",
+      "John Grundy"
+    ],
+    "year": "2026",
+    "type": "Visions- und Roadmap-Beitrag",
+    "venue": "International Workshop on Agentic Engineering (AGENT ’26), 8 Seiten",
+    "identifier": "https://doi.org/10.1145/3786167.3788409",
+    "note": "Der Beitrag formuliert eine Vision und Forschungsagenda; die vorgeschlagene Gesamtarchitektur wird nicht als empirisch validiertes Produkt behandelt.",
+    "scope": "Vorhandene inhaltliche Volltextauswertung.",
+    "themes": [
+      "multi-agenten"
+    ],
+    "description": "Vier Arbeitsmodi stimmen die Autonomie spezialisierter Agenten auf Aufgabenkomplexität, Risiko und menschliche Verantwortung ab.",
+    "key": "assalaarachchi",
+    "source_id": "lit-f511f9672a3b9ee0",
+    "extraction_sha256": "c6203ee78118ccb6f56b08c5f35d5358830f57093b4c9a68e1a753674f5a363c"
+  },
+  {
+    "title": "Expanding Access to AI in the Enterprise: Designing Tools for Non-Technical Professionals in Regulated Industries",
+    "short": "Kohli · Zugänglichkeit und Governance",
+    "authors": [
+      "Rishiraj Kohli"
+    ],
+    "year": "2026",
+    "type": "Gestaltungsrahmen mit konzeptionellem Anwendungsbeispiel",
+    "venue": "PM World Journal, XV(V), Mai 2026",
+    "identifier": "",
+    "note": "Der Beitrag beschreibt ein Mixed-Methods-Vorgehen, kennzeichnet den dargestellten Gesundheitsfall aber ausdrücklich als konzeptionell. Daraus werden hier keine gemessenen Wirkungen abgeleitet.",
+    "scope": "Vorhandene inhaltliche Volltextauswertung; Status des Fallbeispiels auf PDF-Seite 9 geprüft.",
+    "themes": [
+      "ki-projektmanagement",
+      "multi-agenten"
+    ],
+    "description": "Benutzbarkeit, verständliche Erklärungen und integrierte Kontrollmechanismen als gemeinsame Gestaltungsaufgabe.",
+    "key": "kohli",
+    "source_id": "lit-a5b40b03d687c5a4",
+    "extraction_sha256": "4bfe801c06f632efd2aaaaa1b4982f5d68c2563278b7f4f72752cd73ac71a2e7"
+  },
+  {
+    "title": "Wissenschaftlich Arbeiten für Vielbeschäftigte: Ein praktischer Leitfaden mit Beispielen, Anleitungen und Vorlagen",
+    "short": "Heidler et al. · Wissenschaftliches Arbeiten",
+    "authors": [
+      "Petra Heidler",
+      "Albin Krczal",
+      "Eva Krczal"
+    ],
+    "year": "2021",
+    "type": "Methodischer Praxisleitfaden",
+    "venue": "Verlag Barbara Budrich, Opladen & Toronto",
+    "identifier": "",
+    "note": "Das Buch wird als methodische Ergänzung behandelt, nicht als Forschungsbeleg zur Leistungsfähigkeit von KI.",
+    "scope": "20 ausgewählte PDF-Seiten eines 182-seitigen Buchs; keine vollständige Buchzusammenfassung.",
+    "themes": [
+      "design-science"
+    ],
+    "description": "Forschungsfrage, Eingrenzung, Methodenauswahl und Quellenarbeit als zusammenhängende Aufgaben wissenschaftlichen Arbeitens.",
+    "key": "heidler",
+    "source_id": "lit-8b55da4145c76b7e",
+    "extraction_sha256": "dd915e50e58f47685f71982d4378dc98208bb48181bdf63f58b839b48a742b81"
+  }
+]
